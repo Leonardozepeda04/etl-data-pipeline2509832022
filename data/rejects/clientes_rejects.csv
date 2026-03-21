@@ -1,0 +1,14 @@
+id_cliente,cliente,correo,ciudad,motivo_rechazo
+CL115,Almacenes prado 15,,San Salvador,correo_vacio
+CL136,Soluciones cr 36,,La Libertad,correo_vacio
+CL152,Grupo ideal 52,,San Salvador,correo_vacio
+CL176,Distribuciones luna 76,,Santa Ana,correo_vacio
+CL180,Servicios alfa 80,,Santa Ana,correo_vacio
+CL187,Empresa nova 87,,La Libertad,correo_vacio
+CL202,Tienda central 102,,La Libertad,correo_vacio
+CL203,Distribuciones luna 103,,Santa Ana,correo_vacio
+CL212,Tienda central 112,,La Libertad,correo_vacio
+CL216,Distribuciones luna 116,,La Libertad,correo_vacio
+CL223,Tienda central 123,,San Miguel,correo_vacio
+CL216,Distribuciones luna 116,,La Libertad,correo_vacio
+CL223,Tienda central 123,,San Miguel,correo_vacio
