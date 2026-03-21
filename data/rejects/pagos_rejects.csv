@@ -1,0 +1,8 @@
+id_pago,id_venta,metodo,monto_pagado,motivo_rechazo
+PG8029,,Cheque,2303.44,id_venta_vacio
+PG8038,,Efectivo,4920.39,id_venta_vacio
+PG8042,,Tarjeta,1939.85,id_venta_vacio
+PG8052,,Pago móvil,1311.49,id_venta_vacio
+PG8133,,Transferencia,4788.09,id_venta_vacio
+PG8183,,Tarjeta,3025.4,id_venta_vacio
+PG8218,,Pago móvil,1249.18,id_venta_vacio
